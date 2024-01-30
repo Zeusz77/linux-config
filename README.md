@@ -3,8 +3,8 @@
 ## Prerequisites
 
 Installed:
-	- [zsh](https://www.zsh.org/)
-	- [oh-my-zsh](https://ohmyz.sh/)
+- [zsh](https://www.zsh.org/)
+- [oh-my-zsh](https://ohmyz.sh/)
 
 ## How to use
 
